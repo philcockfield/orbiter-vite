@@ -4,8 +4,9 @@ Sample of [Vite](https://vite.dev/) derived `/dist` asset bundles not rendering 
 
 - Sample deployment: https://phil.orbiter.website
 - Sample source (generated from): 
-  - https://jsr.io/@sys/driver-vite
-  - https://jsr.io/@sys/driver-vitepress
+  - [@sys/driver-vite](https://jsr.io/@sys/driver-vite)
+  - [@sys/driver-vitepress](https://jsr.io/@sys/driver-vitepress)
+  
 - People:
   - [Justin](https://warpcast.com/polluterofminds)
   - [Steve](https://warpcast.com/stevedylandev.eth)
