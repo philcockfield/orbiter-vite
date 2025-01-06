@@ -1,0 +1,22 @@
+{
+  "pkg": {
+    "name": "@sys/driver-vite",
+    "version": "0.0.37"
+  },
+  "size": {
+    "bytes": 418616
+  },
+  "entry": "pkg/-entry.CE3sDPa5.js",
+  "hash": {
+    "digest": "sha256-3ae92c087062ab4709602e3cce21a7a9e72f368e4a8567182d768be4d2f7da7b",
+    "parts": {
+      "index.html": "sha256-c010e3c3d529e8492b33d4eeb80033e8dc183a89c59a93a4edd897729cc7609e",
+      "pkg/-entry.CE3sDPa5.js": "sha256-ac75acaff622ecb867f6c562181b3ad403761de81c94bb49a9907566cab90238",
+      "pkg/-pkg.json": "sha256-4bc52021b879da99dd221256b4cfb4cda0c2823b314dce07d6fa3375df00c9e7",
+      "pkg/m.BH42POkH.js": "sha256-8eaf094461292a3a57a9ea5ac30c6180d47970d41823e749a88056c7084ab3fc",
+      "pkg/m.C6vDfoWu.js": "sha256-9d7836d1bdc992c2e349039d69a96556a37bd4965f3578f69b5b65a0c4ce3dad",
+      "pkg/m.DW3RxxEf.js": "sha256-4ff03abbbe3a1fc30eb21ad150aeb87758a81073778e69696b93905a17763094",
+      "pkg/m.DWCWE3zN.js": "sha256-f6406c2688b01d52495b76ffa100852977b4c02bf045ab48f8ebe6d19950b2fe"
+    }
+  }
+}
