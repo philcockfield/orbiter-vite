@@ -27,8 +27,8 @@ Included in this repo are two examples of built assets that when uploaded to Orb
 
 One is a vanilla [Vite](https://vite.dev/) bundle using React, and the other is the product of a [VitePress](https://vitepress.dev/) (via Vite) bundle.
 
-- [dist/vite-vanilla/](dist/vite-vanilla/)
-- [dist/vite-vitepress/](dist/vite-vitepress/)
+- [dist/vite-vanilla](dist/vite-vanilla/)
+- [dist/vite-vitepress](dist/vite-vitepress/)
 
 Both these distributions run fine locally when served via a simple HTTP server.
 
