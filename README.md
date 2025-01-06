@@ -13,6 +13,7 @@ Sample of [Vite](https://vite.dev/) derived `/dist` asset bundles not rendering 
   - [Me (@pjc)](https://warpcast.com/pjc)
 
 
+
 ## Problem Description
 Bundled assets from a Vite build process, when copied into an Orbiter site deployment, successfully serve files however it appears that `.js` files are being delivered with a content-type of `text/html` rather than `application/json`.
 
@@ -31,6 +32,8 @@ One is a vanilla [Vite](https://vite.dev/) bundle using React, and the other is 
 - [dist/vite-vitepress](dist/vite-vitepress/)
 
 Both these distributions run fine locally when served via a simple HTTP server.
+
+Each of the drivers interfaces are lightweight wrappers that pass-throughs to the underlying Vite commands of `dev`, `build`.
 
 
 
