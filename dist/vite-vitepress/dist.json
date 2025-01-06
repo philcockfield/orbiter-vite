@@ -1,0 +1,61 @@
+{
+  "pkg": {
+    "name": "@sys/driver-vitepress",
+    "version": "0.0.158"
+  },
+  "size": {
+    "bytes": 1578473
+  },
+  "entry": "index.html",
+  "hash": {
+    "digest": "sha256-6b8e9b337075c8434b2a35ee1a1fbd082bb72ec2f3b3fbfca96512108a77012e",
+    "parts": {
+      "404.html": "sha256-bc0568a7329c7ddcd12ef874b189379f35174c5f9369f312324853d717dee05c",
+      "assets/-pkg.json": "sha256-ef242cde2dd3a6486fec98343f2a872b0e85a7801cd548fd061104db1822968f",
+      "assets/app.Cu95sF_M.js": "sha256-29c996ba21776cb780295ed512dd4b09890377c223e612cb3f77a67165435d87",
+      "assets/chunks/@localSearchIndexroot.BgMAdtq8.js": "sha256-77902ab5a408b9b9660613b5bbf9bc269eb94411e52ed4a840da28ef3f66da18",
+      "assets/chunks/VPLocalSearchBox.B9QjzpS0.js": "sha256-57a67cb50265515a1bf941c716a4d2528e00ee5d891001f75d9ddc56eab19342",
+      "assets/chunks/errors.Bm6mJGoL.js": "sha256-d26912c6419a432a38936c8be2a85a3bb37074d87f8c78c249900f4474c80bd3",
+      "assets/chunks/framework.YPpNXepj.js": "sha256-9c2d5826bb409f7be194649b465e4c5f7f40d6e7544a3e72680a689234968851",
+      "assets/chunks/prod.CVrjSa5e.js": "sha256-fd078190129c20067d688cf4a3e71d8f81030c9fa098512656b56edd09d160dd",
+      "assets/chunks/srt-parser.B_poAev8.js": "sha256-6b9312dad3c5c724723745f57c129acba44939956a5c76d4ac7e960e296c0f65",
+      "assets/chunks/ssa-parser.CNkf-d8c.js": "sha256-cc22c854db2f4fb0eb387f525dc3c202aba1d09be58133a64531e2f02c6c7415",
+      "assets/chunks/theme.BQqXCBzZ.js": "sha256-0c119e5e69b3ca9e90ba3b71b323c12f4b61de55cbad8c9e4fb7035c5a81470e",
+      "assets/chunks/vidstack-7jdJQx_M.Di_HbJ4L.js": "sha256-5b0829c02f6eac0f197485a1b1f42928c9b081a6fe7b371edbb67e162f45e158",
+      "assets/chunks/vidstack-BEzgE0Fx.DdntDap2.js": "sha256-f0563bd9c1b144831d9f94e89d6f8b9a4a450c664bb7ab8f2d99889666c28c12",
+      "assets/chunks/vidstack-BZcJ-w0X.qs0hidHm.js": "sha256-0a060dc097d6ab390440407276f613ecd5b60fb1304ebf6827329d5fd7f635f6",
+      "assets/chunks/vidstack-CcKOND9e.DsTiFMLx.js": "sha256-c65bec176ec02cd2e12668d3aa7485653457dad948dca2d98a95a5a8d2b6bf33",
+      "assets/chunks/vidstack-Dj0oEz46.Dah8Om-R.js": "sha256-8569f5d2e4ed918d0b59bc80dc4d2e52812c1396f3dd5ffbd89fbc684726111c",
+      "assets/chunks/vidstack-Zc3I7oOd.CA6XwpqT.js": "sha256-4c8a1db068d3786d8a9f0c44b86d82db3cbc3e3fb976d8fce54dd6dd6a9c81e4",
+      "assets/chunks/vidstack-i8ZXTtoj.DPPK4vJk.js": "sha256-a4fac57424a77091e4cc8f834888c0f5361b257477e9fc528ec20b35341985a8",
+      "assets/chunks/vidstack-krOAtKMi.C3UUF7YD.js": "sha256-954d9a6ed94f380a2fd6b887ee81438503791a22bd5f9033a0a70eb701fe334b",
+      "assets/chunks/vidstack-nI3MtI8G.BpnVy3hP.js": "sha256-a1af1070fb13164527adbb4e0366534aac6a481c4ef5719ba1067465d31558b3",
+      "assets/index.md.BC9wmjsk.js": "sha256-ef40c7c00d4ebbfb87beeaff56f17fd1e442bd37ed1514b7ce446f2738c9017b",
+      "assets/index.md.BC9wmjsk.lean.js": "sha256-ef40c7c00d4ebbfb87beeaff56f17fd1e442bd37ed1514b7ce446f2738c9017b",
+      "assets/inter-italic-cyrillic-ext.r48I6akx.woff2": "sha256-3f2ea09e148441f83171eae388d00da780b24b9bd155c141d0b5fbb0d803871d",
+      "assets/inter-italic-cyrillic.By2_1cv3.woff2": "sha256-2a1c3126375078cd85d262aad635ac9d9ff9ac2c18b8143b2d21d540f9cd3dfb",
+      "assets/inter-italic-greek-ext.1u6EdAuj.woff2": "sha256-bae39b1cc79168c9ac47f120c3eaa82cb634dc17e457cdd484725d8c7a60ab3e",
+      "assets/inter-italic-greek.DJ8dCoTZ.woff2": "sha256-138cf731e5a284e262c576f765a6cb8f58045cb798d16693091e2251a0f63559",
+      "assets/inter-italic-latin-ext.CN1xVJS-.woff2": "sha256-3e166de9aeff2d6a3d13c9228e03f7ff76369f5fa95fe0ab1d1d44235d5516aa",
+      "assets/inter-italic-latin.C2AdPX0b.woff2": "sha256-3570e65005ccd9ecd87c6ccc7c713fc474a80ff7c3abbb1063f0e8ab4f8dc891",
+      "assets/inter-italic-vietnamese.BSbpV94h.woff2": "sha256-a0aae13c473b99b63f3c0b8b692b3b2a4023145171aa86964f268235573e4ce5",
+      "assets/inter-roman-cyrillic-ext.BBPuwvHQ.woff2": "sha256-a49e47fb34f94acf8ceb57603cb2fc4c01861527a9a304de3a0236b7b67da2c6",
+      "assets/inter-roman-cyrillic.C5lxZ8CY.woff2": "sha256-d888610b6342164a592e59a4ce91a3755126a6ca2ee4e0d75c8e915eebaeed68",
+      "assets/inter-roman-greek-ext.CqjqNYQ-.woff2": "sha256-7b7519f21aff6b3a011099999cec8a9d4c99173a8c9adeecffb0bd032fc49f69",
+      "assets/inter-roman-greek.BBVDIX6e.woff2": "sha256-1a1997dfdcd7a9e0d2b26944b4b7fd1f1b2fde91bb405cb7a5870f93b45d2e05",
+      "assets/inter-roman-latin-ext.4ZJIpNVo.woff2": "sha256-539d139f99942e93bead7bbcd18bc00f5a73932eb3a8997367f2b79f4f75bc60",
+      "assets/inter-roman-latin.Di8DUHzh.woff2": "sha256-f7ab715caa2c78facb4334b211c81ee66f037cf9c99ca3f24acd543e84a93278",
+      "assets/inter-roman-vietnamese.BjW4sHH5.woff2": "sha256-b315417b28ce251a54000a824d73c5af36798a88b3c05594f28dada0cbffab5a",
+      "assets/section-a_item-a.md.Dv2cz47r.js": "sha256-edb507f97755daad40aca0626946cfb7559bd72f0b0630b93c073e0ef5c41308",
+      "assets/section-a_item-a.md.Dv2cz47r.lean.js": "sha256-edb507f97755daad40aca0626946cfb7559bd72f0b0630b93c073e0ef5c41308",
+      "assets/section-a_item-b.md.BDoqcpoR.js": "sha256-94c6c71aab3fef7a0269c9e5cc68bac4252a4078d9f7cda9f8a1e3a208825f70",
+      "assets/section-a_item-b.md.BDoqcpoR.lean.js": "sha256-94c6c71aab3fef7a0269c9e5cc68bac4252a4078d9f7cda9f8a1e3a208825f70",
+      "assets/style.CCe-vunN.css": "sha256-e4db29062e43f275714c9071776e482a457ccfc5771fa096a165565e5eadebe3",
+      "hashmap.json": "sha256-316a2e2dcaebe048eccf57d0df051e22f11c43887de29fac4dad7c6501371144",
+      "index.html": "sha256-12f186189ddef915cc9dc736151ffd68dbc3157aa4b8f1ad247a130a468f1d07",
+      "section-a/item-a.html": "sha256-bcba2dcb6d382c51588075ef2de0c01ffcec6095b9cc407d2ade2be5321001ca",
+      "section-a/item-b.html": "sha256-fa205ec0182f43ab8b3fe0385cbad6a41c31b0d5cfd4f3a864ff8c24972a9347",
+      "vp-icons.css": "sha256-be9c70cb2aaf43481ee8c02e088369605515656794de519a78ee3ec55ce2bdb9"
+    }
+  }
+}
