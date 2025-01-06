@@ -46,7 +46,8 @@ deno task build
 ↓  
 produces → `./dist/*`
 
-Sample video of this scaffolding → bundle: https://warpcast.com/pjc/0xe9736afe
+### Video Walkthrough
+Screenshot video of running the above sequence: https://warpcast.com/pjc/0xe9736afe
 
 
 
