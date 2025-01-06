@@ -47,7 +47,8 @@ deno task build
 produces → `./dist/*`
 
 ### Video Walkthrough
-Screenshot video of running the above sequence: https://warpcast.com/pjc/0xe9736afe
+Screenshot video of running the above sequence:  
+https://warpcast.com/pjc/0xe9736afe
 
 
 
