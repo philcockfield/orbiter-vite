@@ -1,4 +1,4 @@
-# Sample: Vite Dist → Orbiter (IPFS)
+# Sample: Vite → Orbiter (IPFS)
 
 Sample of [Vite](https://vite.dev/) derived `/dist` asset bundles not rendering when deployed to [Orbiter](https://app.orbiter.host/).
 
@@ -23,7 +23,9 @@ Note: I have tried both dragging the root folder into Orbiter for upload, as wel
 
 ## Reproduction
 
-Included in this repo are two examples of built assets that when uploaded to Orbiter product the described `content-type` issue. One is a vanilla [Vite](https://vite.dev/) bundle using React, and the other is the product of a [VitePress](https://vitepress.dev/) (via Vite) bundle.
+Included in this repo are two examples of built assets that when uploaded to Orbiter product the described `content-type` issue. 
+
+One is a vanilla [Vite](https://vite.dev/) bundle using React, and the other is the product of a [VitePress](https://vitepress.dev/) (via Vite) bundle.
 
 - [dist/vite-vanilla/](dist/vite-vanilla/)
 - [dist/vite-vitepress/](dist/vite-vitepress/)
